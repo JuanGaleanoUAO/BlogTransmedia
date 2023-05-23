@@ -1,11 +1,11 @@
 export const blogList = [
   {
     id: 1,
-    title: "7 CSS tools you should be using ",
-    category: "development",
-    subCategory: ["frontend", "ui/ux", "design"],
+    title: "Primera semana de desarrollo",
+    category: "Exploración",
+    subCategory: ["transmedia", "diseño", "personajes"],
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "Tomamos como punto de partida en este proyecto, la realización de la biblia transmedia (Para mayor entendimiento, indagar sobre Biblia Transmedia), para ello usamos una plantilla compartida por el docente. Algunas de las características principales de la biblia transmedia de este proyecto son: Como mensaje principal tenemos, la exploración de la humanidad y la moralidad en un mundo post-apocalíptico. Ahora bien, en el apartado del mundo transmedia, tenemos en mythos",
     authorName: "Juan Sebastian Galeano A.",
     authorAvatar: "/assets/images/Sebas.webp",
     createdAt: "Fecha",
@@ -13,7 +13,7 @@ export const blogList = [
   },
   {
     id: 2,
-    title: "Milan Places That Highlight The City",
+    title: "Segunda semana de desarrollo",
     category: "travel",
     subCategory: ["vacation", "holidays", "sight seeing"],
     description:
@@ -25,7 +25,7 @@ export const blogList = [
   },
   {
     id: 3,
-    title: "Online Shopping – An Alternative to Shopping in the Mall",
+    title: "Tercera semana de desarrollo",
     category: "shopping",
     subCategory: ["e-commerce store", "clothing", "shopping store"],
     description:
@@ -37,7 +37,7 @@ export const blogList = [
   },
   {
     id: 4,
-    title: "ADVENTURE IN YOU",
+    title: "Cuarta semana de desarrollo",
     category: "adventure",
     subCategory: ["adrenaline", "stay-fit", "lifestyle"],
     description:
@@ -49,7 +49,7 @@ export const blogList = [
   },
   {
     id: 5,
-    title: "Loaded BBQ Baked Potatoes",
+    title: "Quinta semana de desarrollo",
     category: "cooking",
     subCategory: ["bbq", "food", "lifestyle"],
     description:
@@ -61,7 +61,7 @@ export const blogList = [
   },
   {
     id: 6,
-    title: "Beyond the Beach",
+    title: "Sexta semana de desarrollo",
     category: "travel",
     subCategory: ["beaches", "sea", "holidays"],
     description:
@@ -74,7 +74,7 @@ export const blogList = [
   },
   {
     id: 7,
-    title: "Art & Perception",
+    title: "Séptima semana de desarrollo",
     category: "art",
     subCategory: ["skill", "design", "passion"],
     description:
