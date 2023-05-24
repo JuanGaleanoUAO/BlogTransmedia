@@ -3,7 +3,7 @@ import './styles.css';
 
 const Header = () => (
   <header className='home-header'>
-    <h2>Diseño Transmedia</h2>
+    <h2>Tildeland</h2>
     <h1>
       <span>“</span> Blog <span>”</span>
     </h1>
